@@ -1,1 +1,1 @@
-This project for globaltrend company and this is a work done by me.
+This project for globaltrend company and this work done by me.
