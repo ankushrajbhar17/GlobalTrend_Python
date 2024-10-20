@@ -38,7 +38,7 @@ class MaxHeap:
             self._sift_down(largest)
 
 heap = MaxHeap()
-heap.insert(3)#insert
+heap.insert(3)
 heap.insert(5)
 heap.insert(1)
 heap.insert(7)
